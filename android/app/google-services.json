@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "945395848487",
+    "firebase_url": "https://whattsappflutter.firebaseio.com",
+    "project_id": "whattsappflutter",
+    "storage_bucket": "whattsappflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945395848487:android:7bdf6909e6a9966e",
+        "android_client_info": {
+          "package_name": "com.hacksy.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945395848487-kuv45qtpap19ue4shbaqspapsna9ukcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmcLwP73Q8Kc7jL2EoqvmVF8QJA61FKgk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
